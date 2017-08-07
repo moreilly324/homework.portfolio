@@ -1,0 +1,51 @@
+body {
+	background: #EFF;
+	margin: 0;
+	border: 3px black;
+	padding: 30px;
+}
+
+h1	{
+	font-family: lucida, sans-serif;
+	color: gray;
+	text-align: center;
+}
+
+h2	{
+	font-family: helvetica, sans-serif;
+	color: gray;
+	text-align: center;
+}
+
+h3	{
+	font-family: helvetica, sans-serif;
+	font-style: italic;
+	text-align: center;
+}
+
+h4	{
+	font-family: helvetica;
+	text-align: center;
+}
+
+h5	{
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	list-style-position: inside;
+}
+
+img	{
+	border: 2px solid black;
+	display: block;
+	margin: 0 auto;
+}
