@@ -129,29 +129,32 @@ Developer @GA in NYC
   padding-top: 60px;
   padding-left: 50px;
   width: 100px;
-  color: navy;
+  color: #606161;
   text-align: center;
 }
 
 #benefits2  {
-  color: navy;
+  color: #606161;
   font size: 13px;
   font-weight: 300;
   padding-left: 50px;
   padding-top: 20px;
+  padding-bottom: 20px;
   width: 400px;
   height: 40px;
   margin:left: 40px;
+  line-height: 20px;
 }
 
 #benefits3  {
   font-weight: 300;
   font-size: 13px;
-  color: navy;
+  color: #606161;
   width: 400px;
   height: 80px;
   padding-left: 80px;
   padding-top: 50px;
+  line-height: 30px;
 }
 
 #quote  {
@@ -163,6 +166,7 @@ Developer @GA in NYC
   text-align: center;
   padding-top: 80px;
   width: 300px;
+  line-height: 30px;
 }
 
 #quote2 {
