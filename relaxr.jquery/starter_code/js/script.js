@@ -5,21 +5,21 @@ $(document).ready(function() {
 	$('.learnmore').click(showthis);
 
 
-	function showmore ()	{
+	function showmore (event)	{
 		event.preventDefault();
 		$('#show-this-on-click').slideDown();
 		$('.readmore').hide();
 		$('.readless').show();
 	}
 
-	function showless ()	{
+	function showless (event)	{
 		event.preventDefault();
 		$('#show-this-on-click').slideUp();
 		$('.readless').hide();
 		$('.readmore').show();
 	}
 
-	function showthis ()	{
+	function showthis (event)	{
 		event.preventDefault();
 		$('#learnmoretext').slideDown();
 		$('.learnmore').hide();
